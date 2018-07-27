@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Weapon_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Root
+    m_Weight: 1
+  - m_Path: Armature/Root/Tail_0
+    m_Weight: 1
+  - m_Path: Armature/Root/Tail_0/Tail_1
+    m_Weight: 1
+  - m_Path: Armature/Root/Tail_0/Tail_1/Tail_2
+    m_Weight: 1
+  - m_Path: Armature/Root/Tail_0/Tail_1/Tail_2/Tail_3
+    m_Weight: 1
+  - m_Path: Armature/Root/Tail_0/Tail_1/Tail_2/Tail_3/Tail_4
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/Backpack
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/Backpack/Weapon
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/Neck
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/Neck/Head/Eye_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/Neck/Head/Eye_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/Neck/Head/Mouth
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_L/Arm_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_L/Arm_L/UpperHand_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_L/Arm_L/UpperHand_L/Finger_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_L/Arm_L/UpperHand_L/Hand_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_R/Arm_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_R/Arm_R/UpperHand_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_R/Arm_R/UpperHand_R/Finger_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Trunk/UpperArm_R/Arm_R/UpperHand_R/Hand_R
+    m_Weight: 1
+  - m_Path: Armature/Root/UpperLeg_L
+    m_Weight: 0
+  - m_Path: Armature/Root/UpperLeg_L/Leg_L
+    m_Weight: 0
+  - m_Path: Armature/Root/UpperLeg_L/Leg_L/UpperFoot_L
+    m_Weight: 0
+  - m_Path: Armature/Root/UpperLeg_L/Leg_L/UpperFoot_L/Foot_L
+    m_Weight: 0
+  - m_Path: Armature/Root/UpperLeg_R
+    m_Weight: 0
+  - m_Path: Armature/Root/UpperLeg_R/Leg_R
+    m_Weight: 0
+  - m_Path: Armature/Root/UpperLeg_R/Leg_R/UpperFoot_R
+    m_Weight: 0
+  - m_Path: Armature/Root/UpperLeg_R/Leg_R/UpperFoot_R/Foot_R
+    m_Weight: 0
+  - m_Path: Beginner_Armor
+    m_Weight: 0
+  - m_Path: Beginner_Backpack
+    m_Weight: 0
+  - m_Path: Beginner_Belt
+    m_Weight: 0
+  - m_Path: Beginner_Sword
+    m_Weight: 0
+  - m_Path: Char
+    m_Weight: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aba317526f2acb64aa39eaef9e20f812, type: 3}
+  m_Name: Beginner_Sword
+  m_EditorClassIdentifier: 
+  name: Beginner Sword
+  icon: {fileID: 0}
+  isDefaultItem: 0
+  equipSlot: 3
+  mesh: {fileID: 2300000, guid: 409725526aaad1b44845cffc4e0e92e7, type: 3}
+  armorModifier: 0
+  damageModifier: 0

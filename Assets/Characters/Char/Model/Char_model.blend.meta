@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: ac0522bad5f27e443964022bddb62236
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature
+    100006: Backpack
+    100008: Beginner_Armor
+    100010: Beginner_Backpack
+    100012: Beginner_Belt
+    100014: Beginner_Sword
+    100016: Char
+    100018: //RootNode
+    100020: Eye_L
+    100022: Eye_R
+    100024: Finger_L
+    100026: Finger_R
+    100028: Foot_L
+    100030: Foot_R
+    100032: Hand_L
+    100034: Hand_R
+    100036: Head
+    100038: Leg_L
+    100040: Leg_R
+    100042: Mouth
+    100044: Neck
+    100046: Root
+    100048: Tail_0
+    100050: Tail_1
+    100052: Tail_2
+    100054: Tail_3
+    100056: Tail_4
+    100058: Trunk
+    100060: UpperArm_L
+    100062: UpperArm_R
+    100064: UpperFoot_L
+    100066: UpperFoot_R
+    100068: UpperHand_L
+    100070: UpperHand_R
+    100072: UpperLeg_L
+    100074: UpperLeg_R
+    100076: Weapon
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature
+    400006: Backpack
+    400008: Beginner_Armor
+    400010: Beginner_Backpack
+    400012: Beginner_Belt
+    400014: Beginner_Sword
+    400016: Char
+    400018: //RootNode
+    400020: Eye_L
+    400022: Eye_R
+    400024: Finger_L
+    400026: Finger_R
+    400028: Foot_L
+    400030: Foot_R
+    400032: Hand_L
+    400034: Hand_R
+    400036: Head
+    400038: Leg_L
+    400040: Leg_R
+    400042: Mouth
+    400044: Neck
+    400046: Root
+    400048: Tail_0
+    400050: Tail_1
+    400052: Tail_2
+    400054: Tail_3
+    400056: Tail_4
+    400058: Trunk
+    400060: UpperArm_L
+    400062: UpperArm_R
+    400064: UpperFoot_L
+    400066: UpperFoot_R
+    400068: UpperHand_L
+    400070: UpperHand_R
+    400072: UpperLeg_L
+    400074: UpperLeg_R
+    400076: Weapon
+    2100000: None__Beginner_Sword__texture_png
+    2100002: None__Beginner_Belt_texture_png
+    2100004: None__Beginner_Armor_Texture_png
+    2100006: None__Beginner_Backpack_texture_png
+    2100008: None__Char_Texture_png
+    2300000: Beginner_Armor
+    2300002: Beginner_Backpack
+    2300004: Beginner_Belt
+    2300006: Beginner_Sword
+    2300008: Char
+    3300000: Beginner_Armor
+    3300002: Beginner_Backpack
+    3300004: Beginner_Belt
+    3300006: Beginner_Sword
+    3300008: Char
+    4300000: Beginner_Sword
+    4300002: Beginner_Belt
+    4300004: Beginner_Armor
+    4300006: Beginner_Backpack
+    4300008: Char
+    7400000: Default Take
+    7400002: DrawWeapon_Idle
+    7400004: DrawWeapon_Running
+    7400006: Idle
+    7400008: Idle_Weapon
+    7400010: Running
+    7400012: Running_Weapon
+    7400014: Walking
+    7400016: DrawWeapon_Walking
+    7400018: Walking_Weapon
+    9500000: //RootNode
+    13700000: Beginner_Armor
+    13700002: Beginner_Backpack
+    13700004: Beginner_Belt
+    13700006: Beginner_Sword
+    13700008: Char
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Beginner_Armor_Texture_png
+    second: {fileID: 2100000, guid: cc950ec6f1f3a6842b767cd3a829cc70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Beginner_Backpack_texture_png
+    second: {fileID: 2100000, guid: 97fdd5e5c9a261a4b9e7a6674dde396e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Beginner_Belt_texture_png
+    second: {fileID: 2100000, guid: e2b2847fa4e5ffc4eaa1990db9f03077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Beginner_Sword__texture_png
+    second: {fileID: 2100000, guid: 202976b6c6702f847ad34ddbb77e84be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Char_Texture_png
+    second: {fileID: 2100000, guid: d8d58deda056815448c4dcb98134353c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DrawWeapon_Idle
+      takeName: DrawWeapon_Idle
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.43272728
+        functionName: DrawingWeapon
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {fileID: 31900000, guid: 48456677aa26be24bb4806834cffc74b, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DrawWeapon_Running
+      takeName: DrawWeapon_Running
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.45972493
+        functionName: DrawingWeapon
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Weapon
+      takeName: Idle_Weapon
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 0
+      - path: Armature/Root/Tail_0
+        weight: 0
+      - path: Armature/Root/Tail_0/Tail_1
+        weight: 0
+      - path: Armature/Root/Tail_0/Tail_1/Tail_2
+        weight: 0
+      - path: Armature/Root/Tail_0/Tail_1/Tail_2/Tail_3
+        weight: 0
+      - path: Armature/Root/Tail_0/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 0
+      - path: Armature/Root/Trunk
+        weight: 0
+      - path: Armature/Root/Trunk/Backpack
+        weight: 0
+      - path: Armature/Root/Trunk/Backpack/Weapon
+        weight: 0
+      - path: Armature/Root/Trunk/Neck
+        weight: 0
+      - path: Armature/Root/Trunk/Neck/Head
+        weight: 0
+      - path: Armature/Root/Trunk/Neck/Head/Eye_L
+        weight: 0
+      - path: Armature/Root/Trunk/Neck/Head/Eye_R
+        weight: 0
+      - path: Armature/Root/Trunk/Neck/Head/Mouth
+        weight: 0
+      - path: Armature/Root/Trunk/UpperArm_L
+        weight: 0
+      - path: Armature/Root/Trunk/UpperArm_L/Arm_L
+        weight: 0
+      - path: Armature/Root/Trunk/UpperArm_L/Arm_L/UpperHand_L
+        weight: 0
+      - path: Armature/Root/Trunk/UpperArm_L/Arm_L/UpperHand_L/Finger_L
+        weight: 0
+      - path: Armature/Root/Trunk/UpperArm_L/Arm_L/UpperHand_L/Hand_L
+        weight: 0
+      - path: Armature/Root/Trunk/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Trunk/UpperArm_R/Arm_R
+        weight: 1
+      - path: Armature/Root/Trunk/UpperArm_R/Arm_R/UpperHand_R
+        weight: 1
+      - path: Armature/Root/Trunk/UpperArm_R/Arm_R/UpperHand_R/Finger_R
+        weight: 1
+      - path: Armature/Root/Trunk/UpperArm_R/Arm_R/UpperHand_R/Hand_R
+        weight: 1
+      - path: Armature/Root/UpperLeg_L
+        weight: 0
+      - path: Armature/Root/UpperLeg_L/Leg_L
+        weight: 0
+      - path: Armature/Root/UpperLeg_L/Leg_L/UpperFoot_L
+        weight: 0
+      - path: Armature/Root/UpperLeg_L/Leg_L/UpperFoot_L/Foot_L
+        weight: 0
+      - path: Armature/Root/UpperLeg_R
+        weight: 0
+      - path: Armature/Root/UpperLeg_R/Leg_R
+        weight: 0
+      - path: Armature/Root/UpperLeg_R/Leg_R/UpperFoot_R
+        weight: 0
+      - path: Armature/Root/UpperLeg_R/Leg_R/UpperFoot_R/Foot_R
+        weight: 0
+      - path: Beginner_Armor
+        weight: 0
+      - path: Beginner_Backpack
+        weight: 0
+      - path: Beginner_Belt
+        weight: 0
+      - path: Beginner_Sword
+        weight: 0
+      - path: Char
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Running
+      takeName: Running
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Running_Weapon
+      takeName: Running_Weapon
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walking
+      takeName: Walking
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DrawWeapon_Walking
+      takeName: DrawWeapon_Walking
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walking_Weapon
+      takeName: Walking_Weapon
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
